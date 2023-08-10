@@ -1,4 +1,4 @@
-# Copyright 2017-2023. ZiTTA All rights reserved.
+# Copyright 2023. ZiTTA All rights reserved.
 import discord
 
 # 봇 토큰 입력
